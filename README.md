@@ -4,4 +4,4 @@ cleaning some mislabelled columns
 having a clear picture on how many people are served by each water source
 and the queue times for each day at each hour
 
-...the project is yet to be complete
+...the project is yet to be complete.
